@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2? family= Ubuntu:wght@300 & display=swap');
+
+body{background-image: url('./bg_home.jpg');font-family: 'Ubuntu';}
+
+
+h1{text-align: center; margin: 0cm; font-size: 2cm;}
+h2{color: #77ffc0; margin: 1.2cm; font-size: 1cm;}
+
+
+nav{background: #1d162e; margin-top: 0cm;}
+a{display: flex;}
+.historia{margin-left: 10cm;  display: inline; color: white; text-align: right;}
+.guia{margin-left: 10cm;  display: inline; color: white; text-align: left;}
